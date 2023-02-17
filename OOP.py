@@ -99,6 +99,6 @@ h8.review()
 
 #Random Class calls
 
-print("This meat being served is of "+h1.meat+" type")
-print("This meat comes from "+h1.origin)
-print("The protein content is around "+h1.protein)
+print("This meat being served is of",h1.meat," type")
+print("This meat comes from",h1.origin)
+print("The protein content is around",h1.protein)
